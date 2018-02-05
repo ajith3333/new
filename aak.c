@@ -2,6 +2,7 @@
 #include <conio.h>
 void main()
 {
+  int a=0;
 int a, a1,a2,a3,a4;
 printf("\n  enter the  values a ");
 scanf ("\n %d ,&a);
