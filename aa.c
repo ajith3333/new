@@ -3,9 +3,9 @@
 void main()
 {
 int a, a1,a2,a3,a4;
-printf("\n  enter the  values a1 ");
+printf("\n  enter the  values a ");
 scanf ("\n %d ,&a);
-if(a1<=a)
+if(a1=a)
 {
 a1=a;
 a2=a+d;
